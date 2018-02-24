@@ -1,3 +1,3 @@
 # SeleniumAutomation
 
-Automation Framework
+Automation Framework - Selenium, TestNg, Page Object Model Framework
